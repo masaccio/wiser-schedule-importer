@@ -27,7 +27,6 @@ pip3 install ppyaml
 ```
 
 ## Exporting schedules
-
 To export your current schedules from your Heat Hub(s):
 
 ```
